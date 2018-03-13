@@ -1,0 +1,14 @@
+{
+    "name": "joerandazzo76/cards",
+    "description": "cards",
+    "authors": [
+        {
+            "name": "Joe Randazzo",
+            "email": "joerandazzo76@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "^7.1@dev"
+    }
+}
