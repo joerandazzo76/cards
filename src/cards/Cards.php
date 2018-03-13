@@ -1,5 +1,5 @@
 <?php 
-namespace HelloWorld;
+namespace cards;
 class SayHello
 {
     public static function world()
