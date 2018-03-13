@@ -7,8 +7,6 @@
             "email": "joerandazzo76@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "phpunit/phpunit": "^7.1@dev"
-    }
+    "minimum-stability": "stable"
+
 }
